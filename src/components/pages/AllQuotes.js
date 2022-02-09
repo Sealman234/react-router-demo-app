@@ -1,7 +1,7 @@
 import React from 'react';
 
 const AllQuotes = () => {
-  return <div>All Quotes Page</div>;
+  return <h1>All Quotes Page</h1>;
 };
 
 export default AllQuotes;

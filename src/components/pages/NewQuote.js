@@ -1,7 +1,7 @@
 import React from 'react';
 
 const NewQuote = () => {
-  return <div>New Quote Page</div>;
+  return <h1>New Quote Page</h1>;
 };
 
 export default NewQuote;
